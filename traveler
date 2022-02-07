@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<head>
+<body>
+<style>
+body{
+
+background-image:url("https://image.winudf.com/v2/image1/Y29tLmFwcDNkd2FsbHBhcGVyaGQuYWlyY3JhZnR3YWxscGFwZXJfc2NyZWVuXzBfMTU2NzAwNDAwMV8wMjg/screen-0.jpg?fakeurl=1&type=.jpg");
+background-position: 80% 20%;
+}
+.chk{
+font-family:fantasy;
+font-size:25px;
+}
+#viagem{
+font-family:fantasy;
+}
+.inicio{
+background-color:goldenrod;
+font-family:fantasy;
+}
+#te{
+font-family:fantasy;
+font-weight:bold;
+font-color:red;
+}
+#tablaum{
+text-align:center;
+font-size:24px;
+}
+#tabladois{
+text-align:center;
+font-size:24px;
+}
+#tablatreis{
+text-align:center;
+font-size:24px;
+}
+tablaquatro{
+text-align:center;
+font-size:24px;
+}
+</style>
+<h1 id = "viagem"><center> Viajes clock </center></h1>
+<table> 
+<thead> 
+<tr>
+<th id="tablaum", align="center">Reservación</th>
+<th id="tabladois", align="center">Tu Viaje</th>
+<th id="tablatreis", align="center">Realizar CKIN</th>
+<th id="tablaquatro", align="center">Personalización de vuelo</th>
+</tr>
+
+
+
+</thead>
+
+
+
+</table>
+<p class="chk"> ¡Cotizaciones <strong>desde 600 mxn! </strong> <br> </p>
+<FONT SIZE=6 COLOR="red">Aplica términos y condiciones sobre tarifa seleccionada al momento de hacer compra. <br>
+Verificar que tipo de tarifa se va a adquirir y que tipos de beneficios poseen para evitar problemas al momento de <br>
+querer hacer algún cambio, cancelación o solicitar algun reembolso de la tarifa seleccionada.</FONT>
+</p> 
+<h2 class="chk"> <em>Inicio </em></h2>
+<ul>
+<li class="inicio"> <em> COTIZAR <em>  </li>
+<li class="inicio"><em>¡CONTÁCTANOS!<em> </li>
+<li class="inicio"> ¡RESERVA + HOTEL! <em>  </li>
+<li class="inicio"><a href="Reportar.html"><em>REPORTAR<em></a></li>
+</ul>
+
+</div>
+</body>
+</head>
